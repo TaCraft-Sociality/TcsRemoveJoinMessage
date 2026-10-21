@@ -1,0 +1,5 @@
+name: TcsRemoveJoinMessage
+version: 1.0
+main: tcs.TcsRemoveJoinMessage
+api-version: 1.21
+author: tcs
